@@ -25,3 +25,12 @@ O foco principal foi a implementação da lógica em JavaScript , utilizando HTM
 https://github.com/user-attachments/assets/e438f44e-dd7f-40f0-9f05-4a7458e356ec
 
 - `Voce pode estaar acessando o projeto na web atraves do link:`
+  https://amigo-secreto-3aer.vercel.app/
+
+  # :bulb: Contribuições são sempre bem-vindas!
+  - `Por se tratar do Meu primeiro projeto, toda observação ou melhoria será sempre bem vinda.`
+ 
+# Autor
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/195484075?v=4" width=115><br><sub>Ed Campos</sub>](https://github.com/Ed-Campos) |
+| :---: |
